@@ -23,6 +23,3 @@ boton.addEventListener("click", function() {
     let cantidad = inputCantidad.value;
     console.log("Producto elegido:", producto);
 });
-
-// Agrego comentario
-// Agrego otro comentario 
