@@ -18,11 +18,3 @@ boton.addEventListener("click", function() {
         resultado.innerText = "Producto no encontrado";
     }
 });
-<<<<<<< HEAD
-=======
-boton.addEventListener("click", function() {
-    let producto = inputProducto.value;
-    let cantidad = inputCantidad.value;
-    console.log("Producto elegido:", producto);
-});
->>>>>>> 2bdc91ee47c3a3a0249404d883414db0187191a4
